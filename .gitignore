@@ -1,0 +1,5 @@
+venv
+__pycache__
+components/__pycache__
+storage
+db.db
